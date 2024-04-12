@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Gleam (and loving it)**
 
-- 🔭 I’m currently working on **A flexible, modern user management micro-service written in Gleam**
+- 🔭 I’m currently working on **A flexible, modern, drop-in user auth micro-service written in Gleam, as well as an API load testing tool harnassing the power of the BEAM ⚡**
 
 - 🤝 I’m looking for **A job**
 
