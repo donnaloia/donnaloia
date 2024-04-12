@@ -1,7 +1,6 @@
-h1 align="center">Hi 👋, I'm Ben</h1>
+<h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">I've repurposed this Github page mostly as a place where potential employers can see what I've worked on recently.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=donnaloia&label=Profile%20views&color=0e75b6&style=flat" alt="donnaloia" /> </p>
 
 - 🔭 I’m currently working on **A flexible, modern user management micro-service written in Gleam**
 
