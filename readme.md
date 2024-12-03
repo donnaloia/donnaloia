@@ -2,13 +2,13 @@
 <h3 align="center">I've repurposed this Github page mostly as a place where potential employers can see what I've been working on for fun lately.</h3>
 
 
-- 🌱 I’m currently learning **Gleam (and loving it)**
+- 🌱 I’m currently learning **Gleam **
 
 - 🔭 I’m currently working on **A flexible, modern, drop-in user auth micro-service written in Gleam, as well as an API load testing tool harnassing the power of the BEAM ⚡**
 
 - 🤝 I’m looking for **A job**
 
-- 💬 Ask me about **Django, DRF, Flask, system design, or anything DevOps related **
+- 💬 Ask me about **Go, Python, Django, DRF, FastAPI, system design, or anything DevOps related **
 
 - 📫 How to reach me **01.hafts_hoedown@icloud.com**
 
