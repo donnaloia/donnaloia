@@ -8,7 +8,7 @@
 
 - 🤝 I’m currently open for work
 
-- 💬 Ask me about **Go, Python, Django, DRF, FastAPI, system design, or anything DevOps related **
+- 💬 Ask me about **Go, Python, Django, DRF, FastAPI, system design, or anything DevOps related**
 
 - 📫 How to reach me **01.hafts_hoedown@icloud.com**
 
