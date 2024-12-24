@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **A flexible, modern, drop-in user auth micro-service written in Gleam, as well as an API load testing tool harnassing the power of the BEAM ⚡**
 
-- 🤝 I’m looking for **A job**
+- 🤝 I’m currently open for work
 
 - 💬 Ask me about **Go, Python, Django, DRF, FastAPI, system design, or anything DevOps related **
 
