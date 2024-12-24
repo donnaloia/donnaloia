@@ -2,7 +2,7 @@
 <h3 align="center">I've repurposed this Github page mostly as a place where potential employers can see what I've been working on for fun lately.</h3>
 
 
-- 🌱 I’m currently learning **Gleam **
+- 🌱 I’m currently learning **Gleam**
 
 - 🔭 I’m currently working on **A flexible, modern, drop-in user auth micro-service written in Gleam, as well as an API load testing tool harnassing the power of the BEAM ⚡**
 
